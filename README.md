@@ -70,7 +70,9 @@ plot2d3('gnn',r);
 
 # TABULATION:
 
-<img width="1204" height="1600" alt="WhatsApp Image 2026-05-22 at 2 05 48 PM" src="https://github.com/user-attachments/assets/c8147ae8-5421-4e4d-8d10-702aa8dc85fe" />
+<img width="1204" height="1600" alt="mean and variance table" src="https://github.com/user-attachments/assets/9a0e20f9-457d-4a09-bbb2-46f01ebdccb4" />
+
+
 
 # CALCULATION:
 
