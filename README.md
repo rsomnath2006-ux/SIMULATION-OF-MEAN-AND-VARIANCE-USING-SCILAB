@@ -5,6 +5,7 @@ To write a program for mean, variance and cross correlation in SCILAB and verify
 # EQUIPMENTS Needed
 
 •	Computer with i3 Processor
+
 •	SCI LAB
 
 # Algorithm
@@ -66,10 +67,13 @@ n2=max(size(x))-1;
 r=corr(x,y,n1);
 plot2d3('gnn',r);
 ```
+
 # TABULATION:
+
 <img width="1204" height="1600" alt="WhatsApp Image 2026-05-22 at 2 05 48 PM" src="https://github.com/user-attachments/assets/c8147ae8-5421-4e4d-8d10-702aa8dc85fe" />
 
 # CALCULATION:
+
 <img width="1536" height="1587" alt="mean" src="https://github.com/user-attachments/assets/c91d65fb-f12f-4bac-93bb-1fcc7fd19e79" />
 <img width="1204" height="1600" alt="variance" src="https://github.com/user-attachments/assets/01662bcc-85db-47e2-8e04-b5653fff8356" />
 
