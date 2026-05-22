@@ -67,6 +67,9 @@ r=corr(x,y,n1);
 plot2d3('gnn',r);
 ```
 # CALCULATION:
+<img width="1536" height="1587" alt="mean" src="https://github.com/user-attachments/assets/c91d65fb-f12f-4bac-93bb-1fcc7fd19e79" />
+<img width="1204" height="1600" alt="variance" src="https://github.com/user-attachments/assets/01662bcc-85db-47e2-8e04-b5653fff8356" />
+
 
 # CONSOLE WINDOW:
 
